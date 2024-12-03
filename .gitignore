@@ -1,7 +1,5 @@
-# gitignore template for Drupal 8 projects
-#
+# gitignore template for Drupal 8 project
 # earlier versions of Drupal are tracked in `community/PHP/`
-#
 # follows official upstream conventions:
 # https://www.drupal.org/docs/develop/using-composer
 
